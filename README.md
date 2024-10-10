@@ -26,7 +26,7 @@ The buildings will be styled like simplified, white architectural models. (This 
 
 For the time being, we are limiting ourselves to the "concent of Saunt Edhar" as perceived from a "fraa" (friar") of the Decenarian Math (those who stay isolated from outside world for 10 years). This means that the player can explore the Decenarian Math and the areas of the Mynster (church-like structure) usually accessible to those fraas.
 
-For facts and source text references, see [the facts sheet](https://html-preview.github.io/?ulr=https://github.com/Cinewulf/Anathem-3D/blob/main/facts-location_anathem-edhar.html).
+For facts and source text references, see [the facts sheet](https://html-preview.github.io/?url=https://github.com/Cinewulf/Anathem-3D/blob/main/facts-location_anathem-edhar.html).
 
 For interpretative details and inspiration, please see [the wiki](https://github.com/Cinewulf/Anathem-3D/wiki).
 
