@@ -1,5 +1,5 @@
 # Anathem-3D
-Info for, and models recreating, the setting from Neal Stephenson’s novel _Anathem_ (2008)
+Info for, and Unreal Engine 5.5 project recreating, the setting from Neal Stephenson’s novel _Anathem_ (2008)
 
 <img src="https://github.com/user-attachments/assets/d4e29a51-07ab-4672-a175-3678f4f04336" alt="AI-generated concept art of a white gothic cathedral model" width="61.8%"/>
 
